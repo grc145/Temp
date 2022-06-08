@@ -1,0 +1,2 @@
+OVD-genomes.fa.bz2 filter=lfs diff=lfs merge=lfs -text
+OVD-info.xlsx filter=lfs diff=lfs merge=lfs -text
